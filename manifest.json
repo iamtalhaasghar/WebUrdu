@@ -13,7 +13,7 @@
     "matches": [ "*://*/*" ]
   },{
     "css": [ "src/inject/twitter.css" ],
-    "matches": [ "*://twitter.com/*" ]
+    "matches": [ "*://twitter.com/*", "*://x.com/*" ]
   },{
     "css": [ "src/inject/whatsapp.css" ],
     "matches": ["*://web.whatsapp.com/*"]
